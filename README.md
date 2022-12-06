@@ -12,7 +12,6 @@ https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#main-content
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
 - 🌱 I’m currently enrolled at **Microverse** School 
-- 🔭 I’m currently working on JavaScript Frameworks such as **React** 
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't be shy to say Hi
