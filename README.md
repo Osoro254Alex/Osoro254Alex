@@ -1,13 +1,7 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Alex Ogeto </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Full-stack+Software+Developer;Bridging+the+Gap;Between+Front-End+Design+and+Back-End;Functionality;)](https://git.io/typing-svg)
-   
-## Microverse Badges:
-
-<p align="start">
-<img width="150px" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
-</p>
-https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#main-content
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Passionate+Full-stack+Software+Developer;Crafting+Digital+Experiences+with+Code;)](https://git.io/typing-svg)
+  
 <br><br>
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
