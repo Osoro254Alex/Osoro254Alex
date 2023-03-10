@@ -1,6 +1,6 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Alex Ogeto </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Bridging+the+Gap+Between+Front-End+Design+and+Back-End+Functionality;Full-stack+Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Bridging+the+Gap;Between+Front-End+Design+and+Back-End;Functionality;Full-stack+Software+Developer;)](https://git.io/typing-svg)
    
 ## Microverse Badges:
 
