@@ -129,7 +129,19 @@
   <a href="mailto:alexogeto54@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-</p>
+</p><br>
+
+<details open>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/></a> Microverse Certificates</summary>
+<table align="center"><br>
+  
+  <tr>
+  <td align="center"><a href="https://www.credential.net/f0f6cb5c-fe82-4c7f-b9d7-88d206ac93e9" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="110"></a></td>
+  <td align="center"><a href="https://www.credential.net/a7591fb2-f16f-4e2c-8057-782294a5afd3" target="blank"><img src="./images/js-badge.png" width="110"></a></td>
+    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./images/react-badge.png" width="110"></a></td>
+  </tr>
+</table>
+</details>
   
 
 <br><br>
@@ -141,17 +153,4 @@
 | Statistics |  Statistics |  Languages |
 | ---------- | ----------- | ----------- |
  |<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Osoro254Alex&theme=tokyonight&show_icons=true&locale=en" width="330" alt="Osoro254Alex" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osoro254Alex&theme=tokyonight" width="330" alt="Osoro254Alex" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osoro254Alex&theme=tokyonight&show_icons=true&locale=en&layout=compact"  width="300" alt="Osoro254Alex" /></p> |
-</p><br>
-
-
-<details open>
-  <summary align='left'><a href="https://www.microverse.org/"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/></a> Microverse Certificates</summary>
-<table align="left"><br>
-  
-  <tr>
-  <td align="center"><a href="https://www.credential.net/f0f6cb5c-fe82-4c7f-b9d7-88d206ac93e9" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="110"></a></td>
-  <td align="center"><a href="https://www.credential.net/a7591fb2-f16f-4e2c-8057-782294a5afd3" target="blank"><img src="./images/js-badge.png" width="110"></a></td>
-    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./images/react-badge.png" width="110"></a></td>
-  </tr>
-</table>
-</details>
+</p>
