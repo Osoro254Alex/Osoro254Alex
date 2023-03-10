@@ -4,7 +4,9 @@
   
 <br><br>
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
+## 👨🏻‍💻 &nbsp;About Me:
 
+- ⚙️ &nbsp;I have a drive to solve algorithmic problems.
 - 🌱 I’m currently enrolled at **Microverse** School 
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
@@ -139,3 +141,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Osoro254Alex&theme=tokyonight&show_icons=true&locale=en" alt="Osoro254Alex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osoro254Alex&theme=tokyonight" alt="Osoro254Alex" /></p>
+
+<details open>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet" width="60"/></a> Microverse Certificates</summary>
+<table align="center">
+  
+  <tr>
+  <td align="center"><a href="https://www.credential.net/f0f6cb5c-fe82-4c7f-b9d7-88d206ac93e9" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="80"></a></td>
+  <td align="center"><a href="https://www.credential.net/a7591fb2-f16f-4e2c-8057-782294a5afd3" target="blank"><img src="" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/0a8d41f2-787b-4146-b54e-2c95aca31d95" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/" width="80"></a></td>
+  </tr>
+</table>
+</details>
