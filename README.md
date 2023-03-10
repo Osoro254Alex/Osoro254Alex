@@ -136,9 +136,9 @@
 <table align="center"><br>
   
   <tr>
-  <td align="center"><a href="https://www.credential.net/f0f6cb5c-fe82-4c7f-b9d7-88d206ac93e9" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="110"></a></td>
-  <td align="center"><a href="https://www.credential.net/a7591fb2-f16f-4e2c-8057-782294a5afd3" target="blank"><img src="./images/js-badge.png" width="110"></a></td>
-    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./images/react-badge.png" width="110"></a></td>
+  <td align="center"><a href="https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#gs.s7mvhs" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618" width="110"></a></td>
+  <td align="center"><a href="https://www.credential.net/caf99bd5-5294-4d99-867b-241b25ac5c34#gs.s7mx9n" target="blank"><img src="./images/js-badge.png" width="110"></a></td>
+    <td align="center"><a href="https://www.credential.net/fd5a038e-964b-4e18-9d8d-61f3f317784d#gs.s7mxzp" target="blank"><img src="./images/react-badge.png" width="110"></a></td>
   </tr>
 </table>
 </details>
